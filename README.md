@@ -3,7 +3,7 @@
 [![CI](https://github.com/npow/metaflow-hitl/actions/workflows/ci.yml/badge.svg)](https://github.com/npow/metaflow-hitl/actions/workflows/ci.yml)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![WIP](https://img.shields.io/badge/status-WIP-orange.svg)](#)
+[![WIP](https://img.shields.io/badge/status-WIP-orange.svg)](#) [![Docs](https://img.shields.io/badge/docs-mintlify-18a34a?style=flat-square)](https://mintlify.com/npow/metaflow-hitl)
 
 Add human approval gates to your Metaflow pipelines without burning GPU money while you wait.
 
